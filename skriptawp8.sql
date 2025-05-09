@@ -2,11 +2,10 @@
 -- drop database edunovawp8;
 -- use edunovawp8;
 
-create table smjerovi();
-
-
-
-
-
-
-
+create table smjerovi(
+sifra int,
+naziv varchar(50),
+cijena decimal(18,2),
+datumpokretanja datetime,
+aktivan bit
+);
