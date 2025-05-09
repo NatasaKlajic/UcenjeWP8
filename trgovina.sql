@@ -16,5 +16,5 @@
 --create table stavke (
 --racun varchar (20),
 --proizvod varchar (20),
---kolicina decimal (18,2)
+--kolicina decimal (18,3)
 --);
