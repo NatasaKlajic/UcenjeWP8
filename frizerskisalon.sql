@@ -22,3 +22,10 @@
 --opis varchar (30),
 --cijena decimal (18,2)
 --);
+
+--create table posjeta (
+--sifra int,
+--sifradjelatnica int,
+--sifrakorisnik int,
+--sifrausluga int
+--);
