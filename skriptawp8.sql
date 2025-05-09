@@ -9,3 +9,11 @@ cijena decimal(18,2),
 datumpokretanja datetime,
 aktivan bit
 );
+--create table grupe(
+--sifra int,
+--naziv varchar(20),
+--smjer int,
+--predavac varchar(50)
+--);
+
+
